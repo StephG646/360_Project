@@ -14,6 +14,20 @@ git config --global user.email 'username@email.com"
 git config --global user.name 'My Name'
 close cmd
 
+This is how you add the repository to vs
+
+select the source control button on the left
+clone repository
+paste:  into the url box
+select a folder to save it (documents or something)
+click open in the bottom right
+select yes, I trust the authors
+On the top bar, select the terminal menu, followed by new terminal (if one isn't already open)
+
+make sure the current directory is where the git folder is saved (last part should be \CareWare>)
+if not, cd to where you saved the git repo in the earlier step
+run: npm install
+
 
 After modifying a file (or multiple)
 
