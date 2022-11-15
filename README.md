@@ -18,7 +18,7 @@ This is how you add the repository to vs
 
 select the source control button on the left
 clone repository
-paste:  into the url box
+paste: https://github.com/StephG646/360_Project into the url box
 select a folder to save it (documents or something)
 click open in the bottom right
 select yes, I trust the authors
